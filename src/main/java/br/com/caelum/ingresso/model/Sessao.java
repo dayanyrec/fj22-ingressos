@@ -58,5 +58,9 @@ public class Sessao {
 	public void setFilme(Filme filme) {
 		this.filme = filme;
 	}
+
+	public Sala getSala() {
+		return sala;
+	}
 	
 }
